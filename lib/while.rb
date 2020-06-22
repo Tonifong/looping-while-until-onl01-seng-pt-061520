@@ -1,4 +1,4 @@
-required pry
+require "pry"
 
 def using_while(phrase)
   levitation_force = 6 
