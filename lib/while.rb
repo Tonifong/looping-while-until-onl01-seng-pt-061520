@@ -2,9 +2,9 @@ require "pry"
 
 def using_while(phrase)
   levitation_force = 6 
-while levitation_force < 10
- puts "wingardium Leviosa"
- levitation_force +=1
+  while levitation_force < 10
+  puts "wingardium Leviosa"
+  levitation_force +=1
  end
  
  
